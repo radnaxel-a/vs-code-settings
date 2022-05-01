@@ -7,5 +7,6 @@
 	"editor.formatOnSave": true,
 	"editor.defaultFormatter": "esbenp.prettier-vscode",
 	"prettier.singleQuote": true,
-	"editor.suggest.preview": true
+	"editor.suggest.preview": true,
+    	"workbench.tree.indent": 20
 }
